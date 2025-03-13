@@ -1,5 +1,4 @@
-# Kustomize: Zero to Hero 🚀
-
+# Kustomize: 
 Welcome to Kustomize learning! This guide will help you learn Kustomize step by step, using simple examples and clear explanations.
 
 ## What is Kustomize?
